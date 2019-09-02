@@ -1,0 +1,30 @@
+#header{
+	margin-top: 75px
+}
+.socialMedia{
+	background-color:red;
+	text-align: center;
+	padding:20px;
+	display:flex;
+	list-style: none;
+	margin:0;
+	border-radius: 8px;
+}
+
+
+.socialMedia a{
+	border-radius: 2px;
+	color: white;
+	margin: 5px;
+	padding: 7px;
+	text-decoration: none;
+	width:15%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+
+}
+
+footer{
+	background: url(../imgs/beachdraw.jpeg) no-repeat center;
+}
